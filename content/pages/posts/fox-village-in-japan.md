@@ -4,11 +4,11 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  My hands tell my story. It's never been about fashion for me...of course I
+  want it all to look great, and obviously my taste is influnced by my
+  enviorment, but that's just who I am isn't it? At the end of the day, there's
+  a reason why I choose to ink my body, and not have these stories printed on
+  T-shirts and wear them everyday...
 date: '2020-01-11'
 thumb_img_path: /images/jamakassi-Lw4tNcvEaE8-unsplash (1).jpg
 thumb_img_alt: A red fox sitting on a meadow
